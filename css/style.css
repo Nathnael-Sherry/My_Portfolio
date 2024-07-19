@@ -77,6 +77,10 @@ p {
   margin-bottom: 1rem;
 }
 
+#home{
+  background-color: #000 !important;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
