@@ -433,6 +433,7 @@ h6, .h6 {
   font-size: 5.5rem;
   font-weight: 300;
   line-height: 1.2;
+  border-color: #fff;
 }
 
 @media (max-width: 1200px) {
